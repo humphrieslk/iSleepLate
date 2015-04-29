@@ -624,7 +624,6 @@
                     <connections>
                         <outlet property="bottomBorder" destination="eeW-pb-OcJ" id="V3c-s1-aa6"/>
                         <outlet property="leaveByLabel" destination="nOD-BW-LHP" id="XzI-BF-e6h"/>
-                        <outlet property="shimmeringView" destination="2BJ-9h-yc5" id="v85-fP-eip"/>
                         <outlet property="slideToHideImage" destination="rrS-RD-ICd" id="FDs-eh-tVf"/>
                         <outlet property="slideToUnlockView" destination="4HU-bq-Duc" id="s7L-oY-QDh"/>
                         <outlet property="tableView" destination="y4k-Fd-aSb" id="GtB-WM-crY"/>
